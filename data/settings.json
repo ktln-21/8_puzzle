@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "sound_enabled": true,
+  "music_enabled": true,
+  "sound_volume": 0.7,
+  "music_volume": 0.4,
+  "animation_speed": 2.0,
+  "panel_alpha": 0.26,
+  "glass_glow_enabled": true,
+  "background_particles_enabled": true,
+  "reduced_motion": false,
+  "show_valid_move_hint": true,
+  "window_width": 1280,
+  "window_height": 720
+}

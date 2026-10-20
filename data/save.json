@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "unlocked_level": 1,
+  "completed_levels": [],
+  "current_level": 1,
+  "current_state": [
+    1,
+    2,
+    3,
+    8,
+    0,
+    4,
+    7,
+    6,
+    5
+  ],
+  "current_moves": 0,
+  "elapsed_seconds": 0.0,
+  "best_records": [],
+  "game_completed": false,
+  "random_sequence": [],
+  "random_index": 0
+}
